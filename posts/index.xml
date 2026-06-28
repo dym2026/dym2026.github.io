@@ -5,15 +5,14 @@
 &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="p"&gt;}&lt;/span&gt;&lt;span class="w"&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;行内公式：质能方程 $E = mc^2$ 是狭义相对论的核心结论。&lt;/p&gt;
 &lt;p&gt;块级单行公式：
-&lt;/p&gt;
 $$
 \sum_{i=1}^{n} i = \frac{n(n+1)}{2}
-$$&lt;p&gt;多行对齐公式：
-&lt;/p&gt;
+$$&lt;/p&gt;
+&lt;p&gt;多行对齐公式：
 $$
 \begin{aligned}
-f(x) &amp;= x^2 + 3x + 2 \\
-f'(x) &amp;= 2x + 3 \\
-\int_0^1 f(x)dx &amp;= \frac{23}{6}
+f(x) &amp;amp;= x^2 + 3x + 2 \
+f&amp;rsquo;(x) &amp;amp;= 2x + 3 \
+\int_0^1 f(x)dx &amp;amp;= \frac{23}{6}
 \end{aligned}
-$$</description></item></channel></rss>
+$$&lt;/p&gt;</description></item></channel></rss>

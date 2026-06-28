@@ -1,1 +1,36 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>纤纤巧思</title><link>https://dym2026.github.io/</link><description>Recent content on 纤纤巧思</description><generator>Hugo</generator><language>en-us</language><atom:link href="https://dym2026.github.io/index.xml" rel="self" type="application/rss+xml"/></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>☔︎ 纤纤巧思</title><link>https://dym2026.github.io/</link><description>Recent content on ☔︎ 纤纤巧思</description><image><title>☔︎ 纤纤巧思</title><url>https://dym2026.github.io/images/social-share.png</url><link>https://dym2026.github.io/images/social-share.png</link></image><generator>Hugo</generator><language>zh-cn</language><lastBuildDate>Sun, 28 Jun 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://dym2026.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Test</title><link>https://dym2026.github.io/posts/test/</link><pubDate>Sat, 27 Jun 2026 22:10:26 +0800</pubDate><guid>https://dym2026.github.io/posts/test/</guid><description>&lt;div class="highlight"&gt;&lt;pre tabindex="0" class="chroma"&gt;&lt;code class="language-java" data-lang="java"&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="kd"&gt;public&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="kd"&gt;class&lt;/span&gt; &lt;span class="nc"&gt;Test&lt;/span&gt;&lt;span class="p"&gt;{&lt;/span&gt;&lt;span class="w"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="kd"&gt;public&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="kd"&gt;static&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="kt"&gt;void&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nf"&gt;main&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;String&lt;/span&gt;&lt;span class="o"&gt;[]&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;args&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;{&lt;/span&gt;&lt;span class="w"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="n"&gt;System&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="na"&gt;out&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="na"&gt;println&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s"&gt;&amp;#34;hello world&amp;#34;&lt;/span&gt;&lt;span class="p"&gt;);&lt;/span&gt;&lt;span class="w"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="p"&gt;}&lt;/span&gt;&lt;span class="w"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class="line"&gt;&lt;span class="cl"&gt;&lt;span class="p"&gt;}&lt;/span&gt;&lt;span class="w"&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;行内公式：质能方程 $E = mc^2$ 是狭义相对论的核心结论。&lt;/p&gt;
+&lt;p&gt;块级单行公式：
+&lt;/p&gt;
+$$
+\sum_{i=1}^{n} i = \frac{n(n+1)}{2}
+$$&lt;p&gt;多行对齐公式：
+&lt;/p&gt;
+$$
+\begin{aligned}
+f(x) &amp;= x^2 + 3x + 2 \\
+f'(x) &amp;= 2x + 3 \\
+\int_0^1 f(x)dx &amp;= \frac{23}{6}
+\end{aligned}
+$$</description></item><item><title>关于</title><link>https://dym2026.github.io/about/</link><pubDate>Sun, 28 Jun 2026 00:00:00 +0000</pubDate><guid>https://dym2026.github.io/about/</guid><description>&lt;div class="about-header"&gt;
+&lt;img src="https://dym2026.github.io/images/avatar.png" alt="纤纤巧思" class="avatar"&gt;
+&lt;div class="about-intro"&gt;
+&lt;h2&gt;☔︎ 纤纤巧思&lt;/h2&gt;
+&lt;p class="bio"&gt;余生点点，锈迹斑斑&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;问一个好问题，胜过得到一个好答案吧！&lt;/p&gt;
+&lt;p&gt;检验自己对已学知识掌握的程度，就是输出！&lt;/p&gt;
+&lt;p&gt;做一件事情最好的时机是什么时候？答：是现在！&lt;/p&gt;
+&lt;p&gt;拿破仑说过：“不要做思想的巨人，行动的矮子！”&lt;/p&gt;
+&lt;p&gt;现在就行动！！！&lt;/p&gt;
+&lt;h3 id="-联系方式"&gt;📬 联系方式&lt;/h3&gt;
+&lt;div class="social-links"&gt;
+&lt;a href="https://github.com/dym2026" target="_blank" rel="noopener"&gt;GitHub&lt;/a&gt;
+&lt;a href="mailto:1097842427@qq.com"&gt;Email&lt;/a&gt;
+&lt;a href="https://dym2026.github.io/index.xml"&gt;RSS 订阅&lt;/a&gt;
+&lt;/div&gt;</description></item></channel></rss>
